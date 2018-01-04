@@ -1,0 +1,21 @@
+Programming Language	Ratings	Change
+Java	13.231%	-5.52%
+C	9.293%	+0.09%
+C++	5.343%	-0.07%
+Python	4.482%	+0.91%
+C#	3.012%	-0.65%
+JavaScript	2.972%	+0.27%
+Visual Basic .NET	2.909%	-0.26%
+PHP	1.897%	-1.23%
+Delphi/Object Pascal	1.744%	-0.21%
+Assembly language	1.722%	-0.72%
+R	1.605%	-0.11%
+MATLAB	1.604%	-0.36%
+Ruby	1.593%	-0.39%
+Go	1.570%	-0.43%
+Perl	1.562%	-0.80%
+Scratch	1.550%	+0.47%
+Visual Basic	1.489%	-0.43%
+PL/SQL	1.453%	-0.06%
+Objective-C	1.412%	-0.83%
+Swift	1.389%	-0.65%
